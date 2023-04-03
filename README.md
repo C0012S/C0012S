@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=165&section=header&color=0:f00a77,100:c00123&text=SangHee%20Park&fontSize=40&fontAlignY=35&fontColor=ffffff)
+
+<br/>
 
 <!--
 **C0012S/C0012S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:f00a77,100:c00123)
