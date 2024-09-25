@@ -19,4 +19,10 @@ Here are some ideas to get you started:
 
 <br/>
 
+<div align="center">
+  <a href="https://solved.ac/C00K12S"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=C00K12S" /></a>
+</div>
+
+<br/>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:f00a77,100:c00123)
