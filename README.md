@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-  <a href="https://solved.ac/C00K12S"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=C00K12S" /></a>
+  <a href="https://solved.ac/c00k12s"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=C00K12S" /></a>
 </div>
 
 <br/>
